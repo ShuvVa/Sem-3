@@ -25,3 +25,11 @@
 [submodule "Sem-3-Lab-5-C_Sharp"]
 	path = Sem-3-Lab-5-C_Sharp
 	url = https://github.com/ShuvVa/Sem-3-Lab-5-C_Sharp.git
+[submodule "Sem-3-Lab-6"]
+	path = Sem-3-Lab-6
+	url = https://github.com/ShuvVa/Sem-3-Lab-4.git
+	branch = Sem-3-Lab-6
+[submodule "Sem-3-Lab-6-C_Sharp"]
+	path = Sem-3-Lab-6-C_Sharp
+	url = https://github.com/ShuvVa/Sem-3-Lab-4-C_Sharp.git
+	branch = Sem-3-Lab-6-C_Sharp
