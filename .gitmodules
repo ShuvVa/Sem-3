@@ -33,3 +33,6 @@
 	path = Sem-3-Lab-6-C_Sharp
 	url = https://github.com/ShuvVa/Sem-3-Lab-4-C_Sharp.git
 	branch = Sem-3-Lab-6-C_Sharp
+[submodule "Sem-3-Lab-7-C_Plus_Plus"]
+	path = Sem-3-Lab-7-C_Plus_Plus
+	url = https://github.com/ShuvVa/Sem-3-Lab-7-C_Plus_Plus.git
