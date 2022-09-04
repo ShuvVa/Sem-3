@@ -39,3 +39,6 @@
 [submodule "Sem-3-Lab-8-C_Sharp"]
 	path = Sem-3-Lab-8-C_Sharp
 	url = https://github.com/ShuvVa/Sem-3-Lab-8-C_Sharp.git
+[submodule "Sem-3-Lab-8-QT"]
+	path = Sem-3-Lab-8-QT
+	url = https://github.com/ShuvVa/Sem-3-Lab-8-QT.git
