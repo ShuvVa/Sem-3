@@ -4,3 +4,6 @@
 [submodule "Sem-3-Lab-1-C_Sharp"]
 	path = Sem-3-Lab-1-C_Sharp
 	url = https://github.com/ShuvVa/Sem-3-Lab-1-C_Sharp.git
+[submodule "Sem-3-Lab-2"]
+	path = Sem-3-Lab-2
+	url = https://github.com/ShuvVa/Sem-3-Lab-2.git
